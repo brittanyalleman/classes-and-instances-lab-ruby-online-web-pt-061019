@@ -26,4 +26,3 @@ end
 fido = Dog.new(fido)
 fido.name = "fido"
 puts fido.name
-end 
