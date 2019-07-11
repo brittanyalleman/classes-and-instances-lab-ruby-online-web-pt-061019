@@ -29,3 +29,7 @@ puts fido.name
 
 fido.breed = "cutie pie"
 puts fido.breed
+
+snoopy = Dog.new("snoopy", "breed")
+snoopy.name = "snoopy"
+puts snoopy.name 
