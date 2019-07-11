@@ -29,6 +29,3 @@ puts fido.name
 
 fido.breed = "cutie pie"
 puts fido.breed
-
-
-end
