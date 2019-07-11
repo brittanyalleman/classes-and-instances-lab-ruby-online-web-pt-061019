@@ -14,7 +14,6 @@ def name
 
 end
 
-end
 
 adele_goldberg = Person.new(adele_goldberg)
 adele_goldberg.name = adele_goldberg
