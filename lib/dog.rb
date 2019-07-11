@@ -1,2 +1,3 @@
-def  Class Dog
+Dog.Class
+fido = Dog.new
 end
