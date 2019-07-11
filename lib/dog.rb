@@ -35,5 +35,5 @@ snoopy.name = "snoopy"
 puts snoopy.name
 
 lassie = Dog.new("lassie", "breed")
-lassue.name = "lassie"
+lassie.name = "lassie"
 puts lassie.name
