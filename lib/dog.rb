@@ -1,2 +1,2 @@
 def  Class Dog
-  
+end
