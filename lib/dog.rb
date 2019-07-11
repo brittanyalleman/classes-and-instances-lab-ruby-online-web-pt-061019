@@ -22,10 +22,3 @@ end
 end
 
 end
-
-ellie = Dog.new("ellie", "breed")
-ellie.name = "Ellie"
-puts ellie.name
-
-ellie.breed = "cutie pie"
-puts ellie.breed
