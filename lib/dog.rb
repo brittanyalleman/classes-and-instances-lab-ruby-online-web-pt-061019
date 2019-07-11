@@ -13,17 +13,17 @@ def name
  @name = name
  end
 
-#def breed
-#return @breed
-#end
+def breed
+return @breed
+end
 
- #def breed= (breed)
-# @breed = breed
-#end
+def breed= (breed)
+ @breed = breed
+end
 
-#end
+end
 
-fido = Dog.new(fido)
+fido = Dog.new("fido", "breed" )
 fido.name = "fido"
 puts fido.name
 end
