@@ -27,8 +27,8 @@ fido = Dog.new("fido", "breed" )
 fido.name = "fido"
 puts fido.name
 
-ellie.breed = "cutie pie"
-puts ellie.breed
+fido.breed = "cutie pie"
+puts fido.breed
 
 
 end
