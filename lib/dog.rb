@@ -22,3 +22,5 @@ end
 end
 
 end
+
+fido = Dog.new
