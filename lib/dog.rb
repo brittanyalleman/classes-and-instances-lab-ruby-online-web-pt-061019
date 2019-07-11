@@ -1,5 +1,7 @@
-Class.new
 def Class Dog
-fido = dog.new
-end
+
+  def initialize(fido)
+    fido = name
+  end
+
 end
