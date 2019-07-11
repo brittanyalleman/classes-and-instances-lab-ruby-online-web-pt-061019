@@ -1,4 +1,4 @@
-case Dog
+class Dog
 
   def initialize(ellie)
     @ellie = name
