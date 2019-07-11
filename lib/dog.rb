@@ -8,8 +8,8 @@ end
 
 fido = Dog.new("ellie")
 
-puts fido
+puts ellie
 => {name: "ellie"}
 
-puts fido.name
+puts ellie.name
 => "ellie"
